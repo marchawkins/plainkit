@@ -1,1 +1,13 @@
 Title: Marc's Awesome Website
+
+----
+
+Author: marc hawkins
+
+----
+
+Description: this is marc's awesome website. 
+
+----
+
+Copyright: © 1976-2023 marc hawkins

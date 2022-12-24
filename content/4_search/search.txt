@@ -1,0 +1,9 @@
+Title: Search
+
+----
+
+Text: Use this form to search the site.
+
+----
+
+Uuid: 2Ye1IpxvTjwtlNlg
