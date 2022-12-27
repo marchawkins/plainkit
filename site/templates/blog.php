@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<section class="content blog">
+<section id="blog">
 
   <h1><?= $page->title()->html() ?></h1>
   <?= $page->text()->kirbytext() ?>

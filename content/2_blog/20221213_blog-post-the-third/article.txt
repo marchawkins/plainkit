@@ -6,6 +6,16 @@ Text: Well look here, this is the third blog post. Yipee.
 
 ----
 
+Mymap:
+
+lat: 39.9597213
+lon: -75.6059638
+city: West Chester
+country: United States
+postcode: "19383"
+
+----
+
 Date: 2022-12-13 03:55:00
 
 ----

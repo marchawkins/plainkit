@@ -20,6 +20,12 @@ columns:
       text:
         type: textarea
         size: large
+      mymap:
+        label: Location
+        type: locator
+        center:
+          lat: 39.9607
+          lon: -75.6055
 
   sidebar:
     width: 1/3
