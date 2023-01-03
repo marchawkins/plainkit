@@ -1,0 +1,34 @@
+Title: Avengers 6th Birthday
+
+----
+
+Text: Representin' since '82.
+
+----
+
+Mymap:
+
+lat: 41.2020171
+lon: -77.2644152
+city: Jersey Shore
+country: United States
+
+----
+
+Date: 1982-08-22 03:25:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: marc, birthday, avengers, marvel
+
+----
+
+Feature-image: - file://J1LT913ORd4m42GL
+
+----
+
+Uuid: UCdP4GmHzz4kmI0x

@@ -42,3 +42,10 @@ columns:
           tags:
             type: tags
             label: Tags
+          feature_image:
+            type: files
+            label: Feature Image
+            max: 1
+            multiple: false
+            layout: cards
+            help: Square images work best

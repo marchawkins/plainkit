@@ -5,6 +5,19 @@
   <article>
     <h1><?= $page->title()->html() ?></h1>
     <p><small>Published on <?= $page->date()->toDate('l, F jS Y') ?></small></p>
+    
+   
+    <?php if($feature_image = $page->feature_image()->toFile()):
+      $imgSrc = $feature_image->thumb()->url(); ?>
+      <img src="<?php echo $imgSrc ?>" alt="<?php echo $page->title() ?>"/>
+    <?php endif ?>
+    
+    <?php /*
+    <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><img src="<?php echo $imgSrc ?>" alt="<?php echo $note->title() ?>" width="300" class="object-cover h-48 sm:h-48 w-full"></a>
+    <h2 class="text-base text-white font-title leading-tight mt-2"><a class="block hover:underline sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><?php echo $note->title() ?></a></h2>
+    <h3 class="text-xs text-gray-500"><?php echo $note->date()->toDate('l, M jS, Y') ?></h3>
+    */ ?>
+    
     <?= $page->text()->kirbytext() ?>
 
     <?php if($tags = $page->tags()->split()): ?>
