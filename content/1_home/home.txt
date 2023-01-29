@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Text: Welcome to my website.
+Text: Welcome to my awesome website.
 
 ----
 
