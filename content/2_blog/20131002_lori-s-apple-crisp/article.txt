@@ -1,0 +1,35 @@
+Title: Lori's Apple Crisp
+
+----
+
+Text: Posted here so we never, ever lose it. My sister-in-law's absolutely fantastic **Apple Crisp**.
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+postcode: "17033"
+
+----
+
+Date: 2013-10-02 03:20:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Lori, apple crisp, dessert, family
+
+----
+
+Feature-image: - file://S7fzHsID7Qwb2zFO
+
+----
+
+Uuid: b8POqZJ0Uwmfxt3d

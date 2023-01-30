@@ -1,0 +1,60 @@
+Title: Carter and Megan 5yr old Photoshoot
+
+----
+
+Text:
+
+Carter and Megan's "official" 5th birthday photos.
+
+(image: img_0006.jpeg)
+(image: img_0009.jpeg)
+(image: img_0016.jpeg)
+(image: img_0018.jpeg)
+(image: img_0024.jpeg)
+(image: img_0027.jpeg)
+(image: img_0030.jpeg)
+(image: img_0031.jpeg)
+(image: img_0036.jpeg)
+(image: img_0038.jpeg)
+(image: img_0040.jpeg)
+(image: img_0042.jpeg)
+(image: img_0044.jpeg)
+(image: img_0056.jpeg)
+(image: img_0058.jpeg)
+(image: img_0065.jpeg)
+(image: img_0067.jpeg)
+(image: img_0070.jpeg)
+(image: img_0076.jpeg)
+(image: img_0079.jpeg)
+(image: img_0088.jpeg)
+(image: img_0091.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-10-06 03:25:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, twins, birthday
+
+----
+
+Feature-image: - file://uFJxYs5FBuQiGWvD
+
+----
+
+Uuid: 4XeZ9Fr8aqG3SyG6

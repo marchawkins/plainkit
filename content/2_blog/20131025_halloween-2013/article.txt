@@ -1,0 +1,50 @@
+Title: Halloween 2013
+
+----
+
+Text:
+
+Halloween 2013, starring Catwoman, Superman and Wonder Woman. Hit me up, (link: https://www.dccomics.com text: DC).
+
+(image: img_0144.jpeg)
+(image: img_0151.jpeg)
+(image: img_0471.jpeg)
+(image: img_0494.jpeg)
+(image: img_0497.jpeg)
+(image: img_0501.jpeg)
+(image: img_0508.jpeg)
+(image: img_0510.jpeg)
+(image: img_0515.jpeg)
+(image: img_0520.jpeg)
+(image: img_0524.jpeg)
+(image: img_0534.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-10-25 03:40:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Maddie, Megan, Carter, Halloween, superhero
+
+----
+
+Feature-image: - file://vWJX6yYnxzXoAGz5
+
+----
+
+Uuid: gat6IuCBzgril1gO

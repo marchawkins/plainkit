@@ -1,0 +1,38 @@
+Title: Maddie and Megan - Dance Costumes 2013
+
+----
+
+Text:
+
+Maddie (jazz) and Megan (ballet) dance photos for 2013 at (link: https://chestervalleydanceacademy.com text: Chester Valley Dance Academy).
+
+(image: 2013-10-27-megan-solo.jpeg)
+
+----
+
+Mymap:
+
+lat: '40.0533733'
+lon: '-75.662006776412'
+city: Uwchlan Township
+country: United States
+
+----
+
+Date: 2013-10-27 03:45:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Megan, Maddie, dance
+
+----
+
+Feature-image: - file://qTYVWXJNi9W3Jy3b
+
+----
+
+Uuid: qkcfzNZkbOzosFYf

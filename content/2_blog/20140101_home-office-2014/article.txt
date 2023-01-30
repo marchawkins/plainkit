@@ -1,0 +1,46 @@
+Title: Home Office - 2014
+
+----
+
+Text:
+
+Some old shots of the old home office, posted here for posterity.
+
+(image: 01-office.jpg)
+(image: 02-office.jpg)
+(image: 03-office.jpg)
+(image: 04-office.jpg)
+(image: 05-office.jpg)
+(image: 06-office.jpg)
+(image: 07-office.jpg)
+(image: 08-office.jpg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2014-01-01 03:55:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: office, sideshow, collection
+
+----
+
+Feature-image: - file://vdtIoGDg7ttxDgYi
+
+----
+
+Uuid: uCSEW1sZqVWn32gt

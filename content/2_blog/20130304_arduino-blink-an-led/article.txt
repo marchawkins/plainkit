@@ -1,0 +1,41 @@
+Title: Arduino: Blink an LED
+
+----
+
+Text:
+
+How to blink an LED with an Arduino Uno Rev 3.
+
+(video: http://www.youtube.com/watch?v=_2yCpyLvXpA)
+
+(gist: https://gist.github.com/36c67f493a4dc5150593)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-03-04 22:30:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: arduino, led, code, video
+
+----
+
+Feature-image: - file://iyxN0CbDlN3nDrhb
+
+----
+
+Uuid: baJGHVMypl38yfSh

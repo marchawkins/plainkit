@@ -1,0 +1,44 @@
+Title: Preschool Christmas Tree Hunt
+
+----
+
+Text:
+
+Helped chaperone Carter and Megan's preschool class for their trip to the Christmas tree farm to pick out a tree for their preschool. Hot chocolate included.
+
+(image: img_0599.jpeg)
+(image: img_0607.jpeg)
+(image: img_0612.jpeg)
+(image: img_0614.jpeg)
+(image: img_0615.jpeg)
+(image: img_0617.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-12-02 03:50:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, Christmas, tree, preschool, tree farm
+
+----
+
+Feature-image: - file://rig53ADVDy0deu8j
+
+----
+
+Uuid: Jd8gNpYppiPXZbWs

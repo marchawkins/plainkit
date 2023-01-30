@@ -1,0 +1,41 @@
+Title: Arduino Push Button LED Brightness Control
+
+----
+
+Text:
+
+Using a push button control on an Arduino board to control an LED's brightness. Press the button to turn LED on. Hold it down to increase the LED's brightness until it reaches 100%. After reaching full brightness, the LED will return to 0% brightness and repeat.
+
+(video: https://www.youtube.com/watch?v=bqHauOCDcJg)
+
+(gist: https://gist.github.com/marchawkins/b318d9fd9d16a9ad36d8)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-04-01 03:00:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: arduino, led, code, video
+
+----
+
+Feature-image: - file://BwsPLoebsCyOHc8I
+
+----
+
+Uuid: Sn3OMRTmEJ6xkeFz

@@ -1,0 +1,39 @@
+Title: Twins at the park
+
+----
+
+Text:
+
+Took the twins to the park to enjoy some swinging in the sun.
+
+(image: 2013-05-29-carter_park.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-05-29 03:05:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, twins, park, family
+
+----
+
+Feature-image: - file://55QlOXVjuaDfdDX8
+
+----
+
+Uuid: yJyFEuGClw4LrasX

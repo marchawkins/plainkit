@@ -1,0 +1,34 @@
+Title: Carter Loves Cinderella
+
+----
+
+Text: Highlight from our (link: /blog/disney-world-vacation-2013 text: Disney Vacation) - Carter is obviously having the time of his life.
+
+----
+
+Mymap:
+
+lat: 28.5421109
+lon: -81.3790304
+city: Orlando
+country: United States
+
+----
+
+Date: 2013-09-15 03:15:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Maddie, Megan, Danielle, Marc, Grandpa, Nana, family, vacation, Disney, Cinderella
+
+----
+
+Feature-image: - file://zJLGWcwCWdecFvwE
+
+----
+
+Uuid: GBsFcbE2lWNcbrY7

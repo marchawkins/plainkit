@@ -1,0 +1,41 @@
+Title: Control LED Blink Rate with Arduino
+
+----
+
+Text:
+
+Using a light sensor and an Arduino to control the blink rate of an LED.
+
+(video: https://www.youtube.com/watch?v=2c0CMv7y0VQ)
+
+(gist: https://gist.github.com/marchawkins/dd94547c84c9aa96f439)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-03-13 22:40:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: arduino, led, code, video
+
+----
+
+Feature-image: - file://dT2HpWCln2UXx60g
+
+----
+
+Uuid: 69WU4ik8qsDRzGVc

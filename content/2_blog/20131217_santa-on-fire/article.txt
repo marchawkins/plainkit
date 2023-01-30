@@ -1,0 +1,41 @@
+Title: Santa on Fire
+
+----
+
+Text:
+
+Clickbait title. Santa is actually the opposite of on fire here.
+
+(image: img_0620.jpeg)
+(image: img_0626.jpeg)
+(image: img_0628.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-12-17 03:50:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, Maddie, Danielle, Santa, fire truck
+
+----
+
+Feature-image: - file://wCE8C4eD76Kmxuus
+
+----
+
+Uuid: FqNNjRCcbPYvVwi5

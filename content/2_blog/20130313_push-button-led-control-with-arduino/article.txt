@@ -1,0 +1,41 @@
+Title: Push Button LED Control with Arduino
+
+----
+
+Text:
+
+Using an Arduino, push and release a button to turn LED on and off.
+
+(video: https://www.youtube.com/watch?v=b2o0UiITnU8)
+
+(gist: https://gist.github.com/marchawkins/186e2594e18b64914d34)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-03-13 22:40:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: arduino, code, video, led
+
+----
+
+Feature-image: - file://5hMjajrWkpNh8k4Z
+
+----
+
+Uuid: xPiFyTjg1m7O3Fyt

@@ -1,0 +1,45 @@
+Title: Sideshow Lobby 2014
+
+----
+
+Text:
+
+Went to the home office in May and was greeted with the new Sideshow  Harry-Potter-themed lobby. Even cooler in person than these photos can convey.
+
+(image: img_0073.jpeg)
+(image: img_0074.jpeg)
+(image: img_0075.jpeg)
+(image: img_0076.jpeg)
+(image: img_0077.jpeg)
+(image: img_0078.jpeg)
+(image: img_0079.jpeg)
+(image: img_0081.jpeg)
+
+----
+
+Mymap:
+
+lat: 34.1705609
+lon: -118.8375937
+city: Thousand Oaks
+country: United States
+
+----
+
+Date: 2014-05-14 04:05:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Sideshow, collectibles, work
+
+----
+
+Feature-image: - file://B8gLrKHgQu5RhGZz
+
+----
+
+Uuid: wjiKEoF4ULz3NCP8

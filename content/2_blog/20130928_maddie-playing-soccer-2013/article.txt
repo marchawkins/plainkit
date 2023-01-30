@@ -1,0 +1,43 @@
+Title: Maddie Playing Soccer 2013
+
+----
+
+Text:
+
+Maddie playing fall soccer for the Redbulls.
+
+(image: 2013-09-28-soccer_01.jpeg)
+(image: 2013-09-28-soccer_02.jpeg)
+(image: 2013-09-28-soccer_04.jpeg)
+(image: 2013-10-26-soccer_01.jpeg)
+(image: 2013-10-26-soccer_02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-09-28 03:15:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Maddie, soccer, sports
+
+----
+
+Feature-image: - file://XKHKAiW9ULGw3OKk
+
+----
+
+Uuid: 3pq5aTcPU27CwOQK

@@ -1,0 +1,35 @@
+Title: Carter and Dad at the Pool
+
+----
+
+Text: Carter and Dad at the neighborhood swimming pool.
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2013-08-03 03:10:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Marc, family, pool, swim
+
+----
+
+Feature-image: - file://3O6tDBpCU9mc4IPn
+
+----
+
+Uuid: 35am1tZEx6uVJZuE

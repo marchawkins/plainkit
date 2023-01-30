@@ -1,0 +1,47 @@
+Title: Ringling Bros Circus
+
+----
+
+Text:
+
+Didn't know it at the time, but we got to check out one of the last Ringling Bros. and Barnum Baily Circus performances - complete with lions, tigers and elephants, oh my.
+
+(image: imag0042.jpeg)
+(image: imag0043.jpeg)
+(image: imag0044_zoe016.jpeg)
+(image: imag0047_zoe006_shot.jpeg)
+(image: imag0053.jpeg)
+(image: imag0054.jpeg)
+(image: imag0059.jpeg)
+(image: imag0068.jpeg)
+(image: imag0069.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+postcode: "17033"
+
+----
+
+Date: 2013-05-26 03:05:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, Maddie, Danielle, family, circus
+
+----
+
+Feature-image: - file://Gnys97vAFCo34NCj
+
+----
+
+Uuid: BCi4FCJzKLFE623B

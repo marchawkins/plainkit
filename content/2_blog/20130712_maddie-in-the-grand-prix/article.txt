@@ -1,0 +1,35 @@
+Title: Maddie in the Grand Prix
+
+----
+
+Text: Maddie tearing through the Grand Prix. Not **the** Grand Prix, but a super accurate recreation at a local carnival.
+
+----
+
+Mymap:
+
+lat: 40.1306588
+lon: -75.5721388
+city: East Pikeland Township
+country: United States
+postcode: "19442"
+
+----
+
+Date: 2013-07-12 03:10:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Maddie, carnival
+
+----
+
+Feature-image: - file://6v1KYSFtLK83Sxk4
+
+----
+
+Uuid: uLR2M5EZKtOnRaqh

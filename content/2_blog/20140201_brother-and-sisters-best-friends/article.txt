@@ -1,0 +1,35 @@
+Title: Brother and sisters - best friends?
+
+----
+
+Text: A brother and his sisters. Best friends today. Had to snap a pic to prove that they do, in fact, get along from time to time.
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Date: 2014-02-01 03:55:00
+
+----
+
+Author: - user://5ZDRMODV
+
+----
+
+Tags: Carter, Megan, Madeline
+
+----
+
+Feature-image: - file://HIZO14IZsJA6NB6g
+
+----
+
+Uuid: NcrdbhtetgETMdjz
